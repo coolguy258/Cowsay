@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(28, 36, 55);
+}
+
+.main{
+    display: flex;
+    padding-top: 300px;
+    justify-content: center;
+}
